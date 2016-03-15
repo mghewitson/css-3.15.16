@@ -1,0 +1,31 @@
+header {
+  background-color: #993399;
+}
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #99ff99;
+}
+
+h1 {
+  color: #99ff99;
+  text-align: center;
+  font-size: 100px
+}
+
+h2 {
+  color: #993399;
+  font-style: italic;
+  text-align: center;
+  font-size: 70px
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
